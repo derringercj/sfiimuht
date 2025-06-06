@@ -1,0 +1,17 @@
+D:\Personal Projects\Godot\sfiimuht\.godot\mono\temp\bin\Debug\SFIIMUHT.deps.json
+D:\Personal Projects\Godot\sfiimuht\.godot\mono\temp\bin\Debug\SFIIMUHT.runtimeconfig.json
+D:\Personal Projects\Godot\sfiimuht\.godot\mono\temp\bin\Debug\SFIIMUHT.dll
+D:\Personal Projects\Godot\sfiimuht\.godot\mono\temp\bin\Debug\SFIIMUHT.pdb
+D:\Personal Projects\Godot\sfiimuht\.godot\mono\temp\bin\Debug\GodotSharp.dll
+D:\Personal Projects\Godot\sfiimuht\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+D:\Personal Projects\Godot\sfiimuht\.godot\mono\temp\obj\Debug\SFIIMUHT.csproj.AssemblyReference.cache
+D:\Personal Projects\Godot\sfiimuht\.godot\mono\temp\obj\Debug\SFIIMUHT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\Godot\sfiimuht\.godot\mono\temp\obj\Debug\SFIIMUHT.AssemblyInfoInputs.cache
+D:\Personal Projects\Godot\sfiimuht\.godot\mono\temp\obj\Debug\SFIIMUHT.AssemblyInfo.cs
+D:\Personal Projects\Godot\sfiimuht\.godot\mono\temp\obj\Debug\SFIIMUHT.csproj.CoreCompileInputs.cache
+D:\Personal Projects\Godot\sfiimuht\.godot\mono\temp\obj\Debug\SFIIMUHT.csproj.Up2Date
+D:\Personal Projects\Godot\sfiimuht\.godot\mono\temp\obj\Debug\SFIIMUHT.dll
+D:\Personal Projects\Godot\sfiimuht\.godot\mono\temp\obj\Debug\refint\SFIIMUHT.dll
+D:\Personal Projects\Godot\sfiimuht\.godot\mono\temp\obj\Debug\SFIIMUHT.pdb
+D:\Personal Projects\Godot\sfiimuht\.godot\mono\temp\obj\Debug\SFIIMUHT.genruntimeconfig.cache
+D:\Personal Projects\Godot\sfiimuht\.godot\mono\temp\obj\Debug\ref\SFIIMUHT.dll

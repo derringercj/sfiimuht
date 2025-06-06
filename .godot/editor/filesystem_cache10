@@ -1,0 +1,30 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1748986554
+icon.svg::CompressedTexture2D/CompressedTexture2D::5810443031522213203::1734569288::1748657341::1::::<><><>0<>0<>b46469665c25f7e648e78d3673fae6ac<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+player_1.gd::GDScript::2860011443258314663::1748696644::0::1::::<>Area2D<><>0<>0<><>::
+player_1.tscn::PackedScene::6611944825563972075::1748696644::0::1::::<><><>0<>0<><>::uid://vi5cdctww706::::res://assets/Sprites/with_outline/IDLE.png<>uid://t3q5dyogoady::::res://assets/Sprites/with_outline/ATTACK 1.png<>uid://bheaq2qrfshls::::res://assets/Sprites/with_outline/WALK.png
+::res://assets/::1748655455
+License.txt::TextFile/TextFile::-1::1748655455::0::1::::<><><>0<>0<><>::
+::res://assets/Sprites/::1748655455
+::res://assets/Sprites/without_outline/::1748657341
+ATTACK 1.png::CompressedTexture2D/CompressedTexture2D::8399676422293450279::1748655455::1748657341::1::::<><><>0<>0<>b37a467c10bc5b09b3bbf36360848700<>res://.godot/imported/ATTACK 1.png-571184ef1984d0fc7f96b3fc3b0702bc.ctex::
+ATTACK 2.png::CompressedTexture2D/CompressedTexture2D::4111591667685070647::1748655455::1748657341::1::::<><><>0<>0<>f42c1dcb2f55d2fe1771e6376c55deb2<>res://.godot/imported/ATTACK 2.png-e31c84923ec532615fae29f035dbc59e.ctex::
+ATTACK 3.png::CompressedTexture2D/CompressedTexture2D::4361669061978018536::1748655455::1748657341::1::::<><><>0<>0<>9d4005fea78b6ac5681e8579a7f071d1<>res://.godot/imported/ATTACK 3.png-ced3f34f85c1404105d32f8e058d8494.ctex::
+DEATH.png::CompressedTexture2D/CompressedTexture2D::7398968689059188081::1748655455::1748657341::1::::<><><>0<>0<>a6c5a0cc55eb0ef0a1c172f02f2a51de<>res://.godot/imported/DEATH.png-867f374224163836e141f5daf5f547ac.ctex::
+DEFEND.png::CompressedTexture2D/CompressedTexture2D::3275280124667666274::1748655455::1748657341::1::::<><><>0<>0<>14feeaa11b5887541ddc8d75ca0a8ac9<>res://.godot/imported/DEFEND.png-b4866afa993ef6f21ce04559bd340cb6.ctex::
+HURT.png::CompressedTexture2D/CompressedTexture2D::1167681344223466057::1748655455::1748657341::1::::<><><>0<>0<>2e6fdd682c4e5dd4f29216e04a84dc3b<>res://.godot/imported/HURT.png-2186eacc574672540e022b7295a0831c.ctex::
+IDLE.png::CompressedTexture2D/CompressedTexture2D::6198667393321177557::1748655455::1748657341::1::::<><><>0<>0<>1163977db182fbb497643156ae7fedc1<>res://.godot/imported/IDLE.png-3f7db31447a1c8e67f4e799fd2a25f82.ctex::
+JUMP.png::CompressedTexture2D/CompressedTexture2D::471610741879682740::1748655455::1748657341::1::::<><><>0<>0<>7d5ec8987da074ae8e501d11a888a811<>res://.godot/imported/JUMP.png-cd7c4d86c20d2e3cc838a97b981a0509.ctex::
+RUN.png::CompressedTexture2D/CompressedTexture2D::4778336340290054994::1748655455::1748657341::1::::<><><>0<>0<>2fefc5b78b61cca7d05e937102dbc8a3<>res://.godot/imported/RUN.png-86ba39f6aafb3f2e6ec5887da53ba5a9.ctex::
+WALK.png::CompressedTexture2D/CompressedTexture2D::3606075347430006440::1748655455::1748657341::1::::<><><>0<>0<>8e6b8b3659f4e6e6fc3978308d1e9fb0<>res://.godot/imported/WALK.png-9b05ee1f322a37e65518a356929cf3b1.ctex::
+::res://assets/Sprites/with_outline/::1748657341
+ATTACK 1.png::CompressedTexture2D/CompressedTexture2D::1392415847227720078::1748655455::1748657341::1::::<><><>0<>0<>4d9375e7fe6bcfcd60fbf5ad49c0c9e3<>res://.godot/imported/ATTACK 1.png-0c4a8e91b99c25f37e48fd2ad2836e6c.ctex::
+ATTACK 2.png::CompressedTexture2D/CompressedTexture2D::6202743185476725003::1748655455::1748657341::1::::<><><>0<>0<>a64f88169d34d15be7a1efa6a8011201<>res://.godot/imported/ATTACK 2.png-d4d7492b0f8cb27c541f9d3eeab481f5.ctex::
+ATTACK 3.png::CompressedTexture2D/CompressedTexture2D::2819419835593656446::1748655455::1748657341::1::::<><><>0<>0<>6edb20bd521fe44fcba772723dbc61a8<>res://.godot/imported/ATTACK 3.png-16d089c3bd91d63eb97b08d393492f20.ctex::
+DEATH.png::CompressedTexture2D/CompressedTexture2D::3874819814181560714::1748655455::1748657341::1::::<><><>0<>0<>b6df40165345346445672cd42cc7df41<>res://.godot/imported/DEATH.png-8bd152fd34f87b8d21694242d089fcb1.ctex::
+DEFEND.png::CompressedTexture2D/CompressedTexture2D::7822098741966056393::1748655455::1748657341::1::::<><><>0<>0<>6595a295e43fb6c98c7dbbfa58fa6684<>res://.godot/imported/DEFEND.png-3475386df8b139e54ad65f6fdefb0216.ctex::
+HURT.png::CompressedTexture2D/CompressedTexture2D::4580052459705946331::1748655455::1748657341::1::::<><><>0<>0<>63a99a1bd9ca9c9cda2482eed374e278<>res://.godot/imported/HURT.png-25ebd50f0a9a26ccb2a56dc35f6a43b3.ctex::
+IDLE.png::CompressedTexture2D/CompressedTexture2D::1492305981355196257::1748655455::1748657341::1::::<><><>0<>0<>998046723ab2ccb313913a3aad17aa80<>res://.godot/imported/IDLE.png-10b63930ecb70aec4b4f1eb186d6c2d8.ctex::
+JUMP.png::CompressedTexture2D/CompressedTexture2D::7406136695693375865::1748655455::1748657341::1::::<><><>0<>0<>a3256d59a1be94951b562d9ef740f2db<>res://.godot/imported/JUMP.png-d8887d89c9f82fec0fb8f4c6360e946e.ctex::
+RUN.png::CompressedTexture2D/CompressedTexture2D::623125423674874275::1748655455::1748657341::1::::<><><>0<>0<>5c30065bc92b867c758ce6c21a12063f<>res://.godot/imported/RUN.png-271447a45459b48400e7aa8c9c39b252.ctex::
+WALK.png::CompressedTexture2D/CompressedTexture2D::2886030116505169572::1748655455::1748657341::1::::<><><>0<>0<>5b5aec9bc11be8f59dc184a1e79b3a71<>res://.godot/imported/WALK.png-48d93c793b80f2fdeb90490c03a225a0.ctex::
